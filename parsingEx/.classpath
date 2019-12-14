@@ -35,7 +35,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/5CLASS-184/Desktop/gson-2.8.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/5CLASS-184/Desktop/org.eclipse.egit.github.core-2.1.5.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

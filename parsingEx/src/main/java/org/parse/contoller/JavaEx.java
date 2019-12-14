@@ -43,12 +43,15 @@ public class JavaEx {
 			System.out.println();
 		}
 
-		// 연습용
-		for (int i = 1; i <= 9; i++) {
+		// 연습용 
+		for (int i = 1; i <= 9; i++) {  // sdfsdfsdf
 			for (int j = 1; j <= 3; j++) {
 				int x = j + 1 + (i - 1) / 3 * 3;
 				int y = i % 3 == 0 ? 3 : i % 3;
 
+				IntStream.range(1, 10).forEach(q->{
+					System.out.println(q);
+				});
 				if (x > 9)
 					break;
 
@@ -93,8 +96,6 @@ public class JavaEx {
 
 
 		
-		sdf
-		dfs
 		
 		/*
 		 *
@@ -108,31 +109,7 @@ public class JavaEx {
 		IntStream ex2 = IntStream.of();
 		IntStream ex3 = IntStream.of();
 		{}
-		{}
 		{
-				{
-					{
-						{
-							{
-								{
-									{
-										{
-											{
-												{
-													{
-														
-													}
-												}
-											}
-										}
-									}
-								}
-							}
-						}
-					}
-				}
-			}
-		}
 		}
 		String str3 = "//메소드 출력되면 안됨";
 
@@ -147,15 +124,7 @@ public class JavaEx {
 		
 		
 		
-		별찍기 dfㅇㄹㅇ
-		dgdg
-		{}
-		{}
-		{}
-		{
-			
-			
-		}
+						
 		}
 	}
 }
